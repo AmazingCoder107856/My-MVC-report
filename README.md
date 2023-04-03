@@ -1,4 +1,6 @@
-My repo README
+MVC projects
 ================
 
-My repo......
+Get going with Symfony. Install Symfony via https://github.com/dbwebb-se/mvc/tree/main/example/symfony.
+
+
