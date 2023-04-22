@@ -5,10 +5,11 @@
   "devDependencies": {
     "clean-css": "^4.2.1",
     "csslint": "^1.0.1",
+    "eslint-plugin-react": "^7.32.2",
     "html-minifier": "^4.0.0",
-    "htmlhint": "^0.11.0",
+    "htmlhint": "^1.1.4",
     "js-yaml": "^3.13.1",
-    "jscs": "^3.0.7",
+    "jscs": "^2.1.1",
     "jshint": "^2.10.2",
     "jsonlint": "^1.6.3",
     "uglify-js": "^3.6.5"
